@@ -28,6 +28,6 @@ public class Position {
 
     @Override
     public String toString() {
-        return String.format("Position row=%s, column=%s", row, column);
+        return String.format("row=%s, column=%s", row, column);
     }
 }
